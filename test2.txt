@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 created test2.txt file.
 
 today wedensday
+=======
+>>>>>>> parent of 4074a26 (commit)
